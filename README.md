@@ -1,5 +1,6 @@
 # Amazon-Prime-Video-Dashboard
-📊 Prime Video Dashboard (Power BI Project)
+📊 Prime Video Dashboard
+
 📘 Project Overview
 
 This Power BI dashboard provides a comprehensive analysis of Prime Video’s movie and TV show data. It visualizes key insights related to content types, genres, ratings, release years, and countries of origin. The dashboard helps understand content distribution trends, audience targeting, and production patterns over time.
@@ -61,4 +62,5 @@ Data Source: Prime Video dataset (public dataset or Kaggle)
 The Prime Video Dashboard offers a clear view of content diversity, highlighting how the platform has expanded its catalog over a century. It helps stakeholders and analysts make data-driven decisions about content production, localization, and audience targeting.
 
 Screenshot
-The dashboard look like this.
+* The dashboard look like this.
+![Dashboard Preview](https://github.com/PreetiDA03/Amazon-Prime-Video-Dashboard/blob/main/Dashboard.PNG)
